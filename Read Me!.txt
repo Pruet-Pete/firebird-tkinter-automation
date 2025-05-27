@@ -1,0 +1,4 @@
+Step
+1. Update SKU
+2. Update Bal
+3. Update Sales
